@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanchari Ray</h1>
 <h3 align="center">I'm a 3rd year student pursuing BTech in Computer Science Engineering from KIIT, Bhubaneswar</h3>
 
-- 🔭 I’m currently working on **Text Summarization and YouTube Transcript Summarizer**
+- 🔭 I’m currently working on **Text Summarization** and **YouTube Transcript Summarizer**
 
 - 🌱 I’m currently learning **React Js, MongoDb**
 
