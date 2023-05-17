@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchari Ray</h1>
-<h3 align="center">I'm a 3rd year student pursuing BTech in Computer Science Engineering from KIIT, Bhubaneswar</h3>
+<h3 align="center">I'm a final year student pursuing BTech in Computer Science Engineering from KIIT, Bhubaneswar</h3>
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
 
 
