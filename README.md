@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanchari Ray</h1>
+<h1 align="center">Hello 👋, I'm Sanchari Ray</h1>
 <h3 align="center">I'm a final year student pursuing BTech in Computer Science Engineering from KIIT, Bhubaneswar</h3>
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
