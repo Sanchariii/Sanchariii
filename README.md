@@ -5,7 +5,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchari-ray-a4499b21b/)](https://www.linkedin.com/in/sanchari-ray-a4499b21b/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raysanchari930@gmail.com)](mailto:raysanchari930@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Instagram&link=https://instagram.com/_hydraaaa__?igshid=MzNlNGNkZWQ4Mg==)](https://instagram.com/_hydraaaa__?igshid=MzNlNGNkZWQ4Mg==)
+[![Linkedin Badge](https://img.shields.io/badge/-sanchariray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchari-ray-a4499b21b/)](https://www.linkedin.com/in/sanchari-ray-a4499b21b/) [![Gmail Badge](https://img.shields.io/badge/-raysanchari930@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raysanchari930@gmail.com)](mailto:raysanchari930@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-The%20hydraaaa-c14438?style=flat-square&logo=Instagram&link=https://instagram.com/_hydraaaa__?igshid=MzNlNGNkZWQ4Mg==)](https://instagram.com/_hydraaaa__?igshid=MzNlNGNkZWQ4Mg==)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
