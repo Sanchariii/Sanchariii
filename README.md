@@ -1,7 +1,16 @@
 <h1 align="center">Hello 👋, I'm Sanchari Ray</h1>
-<h3 align="center">class WhoAmI: user = 'Sanchari Ray' current_work = 'Writing code' hobbies = [ 'Painting', 'Watching series', 'Reading Sci-Fi Novels' 'Being up all Night chasing that ONE BUG...' ] def getCity(): return Kolkata_India() def Ambitions(): LearnJapanese() FinishMyNovel() # Assume 10 more awesome ambitions here ;)</h3>
+<h3 align="center">class WhoAmI: 
+  user = 'Sanchari Ray' 
+  current_work = 'Writing code' 
+  hobbies = [ 'Painting', 'Watching series', 'Reading Sci-Fi Novels' 'Being up all Night chasing that ONE BUG...' ] 
+  def getCity(): 
+  return Kolkata_India() 
+  def Ambitions(): 
+  LearnJapanese() 
+  FinishMyNovel() 
+  # Assume 10 more awesome ambitions here ;)</h3>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchariii&label=Profile%20views&color=0e75b6&style=flat" alt="sanchariii" /> </p>
 
 - 🔭 I’m currently working on **Text Summarization**
 
