@@ -1,14 +1,31 @@
 <h1 align="center">Hello 👋, I'm Sanchari Ray</h1>
-<h3 align="center">class WhoAmI: 
-  user = 'Sanchari Ray' 
-  current_work = 'Writing code' 
-  hobbies = [ 'Painting', 'Watching series', 'Reading Sci-Fi Novels' 'Being up all Night chasing that ONE BUG...' ] 
-  def getCity(): 
-  return Kolkata_India() 
-  def Ambitions(): 
-  LearnJapanese() 
-  FinishMyNovel() 
-  # Assume 10 more awesome ambitions here ;)</h3>
+## Who am I :point_down:?
+```python
+ from Sanchari_Ray import personal_details
+ # from Sanchari_Personal import personal_ambitions
+ 
+ class WhoAmI:
+ 	name = 'Ansh Sarkar'
+	current_education = "B.Tech CSE"
+	hobbies = [
+				'Painting',
+				'Watching Series :)',
+				'Reading Sci-Fi Novels',
+				'Making friends ...'
+			]
+			
+	# return city name ...
+	def getCity():
+		retrun Kolkata_India()
+		
+	# return public ambitions ...
+	def Ambitions():
+		Become_A_Billionaire()
+		
+		Be_The_Best()
+		# Assume 10 more awesome ambitions here ;)
+	
+```
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
