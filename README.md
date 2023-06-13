@@ -1,18 +1,16 @@
 <h1 align="center">Hello 👋, I'm Sanchari Ray</h1>
 ## Who am I :point_down:?
 ```python
- from Sanchari_Ray import personal_details
- # from Sanchari_Personal import personal_ambitions
  
  class WhoAmI:
- 	name = 'Ansh Sarkar'
+ 	name = 'Sanchari Ray'
 	current_education = "B.Tech CSE"
-	hobbies = [
+	hobbies = 
 				'Painting',
 				'Watching Series :)',
 				'Reading Sci-Fi Novels',
 				'Making friends ...'
-			]
+			
 			
 	# return city name ...
 	def getCity():
