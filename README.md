@@ -1,16 +1,21 @@
 <h1 align="center">Hello 👋, I'm Sanchari Ray</h1>
+<!--defining python code section-->
+
 ## Who am I :point_down:?
 ```python
+ from Sanchari_Ray import personal_details
+ # from Sanchari_Personal import personal_ambitions
  
  class WhoAmI:
  	name = 'Sanchari Ray'
 	current_education = "B.Tech CSE"
-	hobbies = 
+	hobbies = [
 				'Painting',
 				'Watching Series :)',
 				'Reading Sci-Fi Novels',
-				'Making friends ...'
-			
+				
+        			'Making friends ...'
+			]
 			
 	# return city name ...
 	def getCity():
@@ -21,9 +26,12 @@
 		Become_A_Billionaire()
 		
 		Be_The_Best()
-		# Assume 10 more awesome ambitions here ;)
+		# assume more 10 ambitions here ;)
 	
 ```
+
+			
+
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
