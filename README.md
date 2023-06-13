@@ -13,8 +13,9 @@
 				'Painting',
 				'Watching Series :)',
 				'Reading Sci-Fi Novels',
+		                'Making friends ...'
 				
-        			'Making friends ...'
+        			
 			]
 			
 	# return city name ...
@@ -24,9 +25,10 @@
 	# return public ambitions ...
 	def Ambitions():
 		Become_A_Billionaire()
-		
 		Be_The_Best()
 		# assume more 10 ambitions here ;)
+		
+		
 	
 ```
 
@@ -34,7 +36,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-
+## Current Status
 - 🔭 I’m currently working on **Text Summarization**
 
 - 🌱 I’m currently learning **MERN Stack and polishing my DSA skills.**
