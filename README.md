@@ -24,7 +24,8 @@
 		
 	# return public ambitions ...
 	def Ambitions():
-		Become_A_Billionaire()
+		Be_A_Successful_Woman()
+		Contribute_My_Skills_For_Betterment()
 		Be_The_Best()
 		# assume more 10 ambitions here ;)
 		
