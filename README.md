@@ -20,7 +20,7 @@
 			
 	# return city name ...
 	def getCity():
-		retrun Kolkata_India()
+		return Kolkata_India()
 		
 	# return public ambitions ...
 	def Ambitions():
@@ -44,8 +44,7 @@
 
 - 👯 I’m looking to collaborate on **ML/AI/Web dev projects**
 
-- 👨‍💻 All of my projects are available at [My portfolio website](About
-https://sanchariii.github.io/Sanchari-Ray-Portfolio/)
+- 👨‍💻 All of my projects are available at [My portfolio website](https://sanchariii.github.io/Sanchari-Ray-Portfolio/)
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
