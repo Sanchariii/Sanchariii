@@ -44,7 +44,7 @@
 
 - 👯 I’m looking to collaborate on **ML/AI/Web dev projects**
 
-- 👨‍💻 All of my projects are available at [My portfolio website](https://sanchariii.github.io/Sanchari-Ray-Portfolio/)
+- 👨‍💻 All of my projects are available at [My portfolio website](https://sanchariii.github.io/Sanchari-Portfolio-io/)
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
