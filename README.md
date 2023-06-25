@@ -38,7 +38,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ## Current Status
-- 🔭 I’m currently working on **E-Commerce Website using Django**
+- 🔭 I’m currently working on **Stock Price Predictor**.
 
 - 🌱 I’m currently learning **MERN Stack and polishing my DSA skills.**
 
