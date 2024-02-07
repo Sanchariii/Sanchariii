@@ -40,7 +40,7 @@
 ## Current Status
 - 🔭 I’m currently working on **Large Language Models(LLM)**.
 
-- 🌱 I’m currently learning **MERN Stack and polishing my DSA skills.**
+- 🌱 I’m currently diving more deeper into **Deep Learning and polishing my DSA skills.**
 
 - 👯 I’m looking to collaborate on **ML/AI/Web dev projects**
 
