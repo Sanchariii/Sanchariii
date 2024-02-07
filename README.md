@@ -38,7 +38,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ## Current Status
-- 🔭 I’m currently working on **Stock Price Predictor**.
+- 🔭 I’m currently working on **Large Language Models(LLM)**.
 
 - 🌱 I’m currently learning **MERN Stack and polishing my DSA skills.**
 
@@ -46,7 +46,7 @@
 
 - 👨‍💻 All of my projects are available at [My portfolio website](https://sanchariii.github.io/Sanchari-Portfolio-io/) 
 
-- 💬 Ask me about **Data Science, Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning,Deep Learning.**
 
 - 📫 How to reach me **raysanchari930@gmail.com**
 
