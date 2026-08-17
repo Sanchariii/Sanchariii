@@ -38,7 +38,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ## Current Status
-- 🔭 I’m currently working as **Azure Data Engineer **.
+- 🔭 I’m currently working as **Azure Data Engineer**.
 
 - 🌱 I’m currently diving more deeper into **Azure Data Factory and Databricks.**
 
