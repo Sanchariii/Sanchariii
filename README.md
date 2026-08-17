@@ -38,15 +38,15 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ## Current Status
-- 🔭 I’m currently working on **Large Language Models(LLM)**.
+- 🔭 I’m currently working as **Azure Data Engineer **.
 
-- 🌱 I’m currently diving more deeper into **Deep Learning and polishing my DSA skills.**
+- 🌱 I’m currently diving more deeper into **Azure Data Factory and Databricks.**
 
 - 👯 I’m looking to collaborate on **ML/AI/Web dev projects**
 
 - 👨‍💻 All of my projects are available at [My portfolio website](https://sanchariii.github.io/Sanchari-Portfolio-Website/) 
 
-- 💬 Ask me about **Data Science, Machine Learning,Deep Learning.**
+- 💬 Ask me about **Data Science, Machine Learning,Deep Learning, Data Engineering **
 
 - 📫 How to reach me **raysanchari930@gmail.com**
 
