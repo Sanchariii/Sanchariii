@@ -46,7 +46,7 @@
 
 - 👨‍💻 All of my projects are available at [My portfolio website](https://sanchariii.github.io/Sanchari-Portfolio-Website/) 
 
-- 💬 Ask me about **Data Science, Machine Learning,Deep Learning, Data Engineering **
+- 💬 Ask me about **Data Science, Machine Learning,Deep Learning, Data Engineering**
 
 - 📫 How to reach me **raysanchari930@gmail.com**
 
