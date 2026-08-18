@@ -8,7 +8,8 @@
  
  class WhoAmI:
  	name = 'Sanchari Ray'
-	current_education = "B.Tech CSE"
+	company = 'Rockwell Automation'
+	education = "B.Tech CSE"
 	hobbies = [
 				'Painting',
 				'Watching Series :)',
@@ -21,6 +22,8 @@
 	# return city name ...
 	def getCity():
 		return Kolkata_India()
+	def currCity():
+		return Pune_India()
 		
 	# return public ambitions ...
 	def Ambitions():
